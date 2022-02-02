@@ -15,7 +15,7 @@ variables:
   webAppName: 'WebApp-cicd-matsudak'
 
   # Environment name
-  environmentName: 'WebApp-cicd-matsudak'
+  environmentName: ''
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
